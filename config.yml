@@ -54,19 +54,34 @@ users:
             value: 否
         - form:
             title: 5.是否有腹泻症状
-            value: 36.4
-        - form:
-            title: 5.晚上体温
-            value: 36.1
-        - form:
-            title: 6.身体状况
-            value: 身体健康
-        - form:
-            title: 7.是否请假
             value: 否
         - form:
-            title: 8.今日是否返回宜宾市
+            title: 7.14天内是否去过中高风险地区？
             value: 否
+        - form:
+            title: 8.14天内是否接触中高风险人员？
+            value: 否
+        - form:
+            title: 9.14天内是否接触新冠病毒肺炎患者？
+            value: 否
+        - form:
+            title: 10.14天内是否接触市区新冠病毒肺炎病例患者？
+            value: 否
+        - form:
+            title: 11.14天内是否接触境外返乡人员？
+            value: 否
+        - form:
+            title: 13.14天内是否去过外地？
+            value: 否
+        - form:
+            title: 15.14天内是否接触发热病人？
+            value: 否
+        - form:
+            title: 17.14天内是否出现发热、咳嗽症状？
+            value: 否
+        - form:
+            title: 19.请详细描述近14天内的行动轨迹及其他情况
+            value: 无
   # 第二个用户配置
   # 以下配置为信息收集
   # 这里默认仅适配宜宾学院，其他学校自行修改
